@@ -1,3 +1,4 @@
 PyCO2SYS==1.6.0
 matplotlib==3.3
 xarray==0.16
+bottleneck==1.3
