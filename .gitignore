@@ -1,3 +1,6 @@
+# Big datasets
+data/GLODAPv2.2016b.full/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
