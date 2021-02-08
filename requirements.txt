@@ -4,3 +4,4 @@ xarray>=0.16
 bottleneck>=1.3
 scipy>=1.6
 netcdf4
+area>=1.1
